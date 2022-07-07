@@ -20,4 +20,5 @@ public class Product
         str = str.Remove(str.Length - 2);
         return "Builded parts: " + str + "\n";
     }
+    
 }
