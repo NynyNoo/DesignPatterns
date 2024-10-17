@@ -1,6 +1,6 @@
 <p align="center">
 Projekt do testowania i nauki wzorców projektowych.
-Wzorce opracowane:
+Wzorce opracowane: <br>
 AbstractFactoryMethod <br>
 BuilderPattern <br>
 CommandPattern <br>
