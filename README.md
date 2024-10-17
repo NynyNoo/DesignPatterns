@@ -1,5 +1,5 @@
 <p align="center">
-Projekt do testowania i nauki wzorców projektowych.
+Projekt do testowania i nauki wzorców projektowych. <br>
 Wzorce opracowane: <br>
 AbstractFactoryMethod <br>
 BuilderPattern <br>
